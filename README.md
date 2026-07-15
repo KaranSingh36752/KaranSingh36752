@@ -1,21 +1,212 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Transformers<br>👯 I’m looking to collaborate on<br>rust as backend<br>🌱 I’m currently learning/improving<br>ML/AI Transformers<br>💬 Ask me about<br>full stack in deep working of Nodejs<br>⚡ Fun fact<br>We are written in C
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║   ▄████▄    OPERATION: FULL STACK                            ║
+║   ██▀▀▀     de_greaternoida  ·  COMPETITIVE  ·  LIVE         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/buckminsterrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishpreet-singh-4b39ba1a2/) 
+# `[CT]` Ishpreet Singh
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishpreet36752&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishpreet36752&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet36752&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Full Stack Developer** · **Entry Frag: AI-Native Platforms**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Status](https://img.shields.io/badge/STATUS-IN%20MATCH-4CAF50?style=for-the-badge&labelColor=1B2838)
+![Rank](https://img.shields.io/badge/RANK-BTech%20CS%20'26-DE9B35?style=for-the-badge&labelColor=1B2838)
+![Server](https://img.shields.io/badge/SERVER-Delhi%20NCR%2C%20IN-5B7A9E?style=for-the-badge&labelColor=1B2838)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-DE9B35?style=flat-square&logo=vercel&logoColor=white&labelColor=1B2838)](https://ishpreet-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1B2838)](https://www.linkedin.com/in/ishpreet-singh-4b39ba1a2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=1B2838)](https://leetcode.com/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=1B2838)](https://discord.gg/buckminsterrr)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1B2838)](mailto:ishpreet36752@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KaranSingh36752&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `>` RADAR — Current Position
+
+```
+🎯  Holding angle on ....... Voice-to-voice AI pipelines & LLM tooling
+🔫  Primary in hand ........ Next.js 15 · React 19 · FastAPI · TypeScript
+🌱  Practicing aim on ...... Transformers, Rust as a backend
+💬  Call me out for ........ Deep Node.js internals, full-stack architecture
+⚡  Fun fact ............... We are written in C
+```
+
+---
+
+## `>` LOADOUT — Buy Menu
+
+<table>
+<tr><td><b>🔫 PRIMARY</b><br><sub>What I open the round with</sub></td>
+<td>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</td></tr>
+
+<tr><td><b>🔪 SECONDARY</b><br><sub>Close-quarters, always on me</sub></td>
+<td>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=61DAFB)
+
+</td></tr>
+
+<tr><td><b>💣 UTILITY — AI/ML</b><br><sub>Flash, smoke, molly</sub></td>
+<td>
+
+![Mistral](https://img.shields.io/badge/Mistral--7B-FF7000?style=flat&logo=mistralai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/DistilBERT-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone%20VectorDB-000000?style=flat&logo=pinecone&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat&logo=openai&logoColor=white)
+
+</td></tr>
+
+<tr><td><b>🛡️ ARMOR — State & Data</b><br><sub>Kevlar + helmet</sub></td>
+<td>
+
+![TanStack](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+</td></tr>
+
+<tr><td><b>🎨 SKINS</b><br><sub>Purely cosmetic. Purely necessary.</sub></td>
+<td>
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Radix](https://img.shields.io/badge/Radix%20UI-161618?style=flat&logo=radixui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+</td></tr>
+
+<tr><td><b>🗺️ SERVER OPS</b><br><sub>Keeping the match live</sub></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS%20EC2%20·%20S3%20·%20Lambda-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+</td></tr>
+</table>
+
+---
+
+## `>` MATCH HISTORY
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  MAP: Experiment Labs                    Sep 2025 – Present   [LIVE] │
+│  ROLE: Full Stack Developer Intern       Delhi, India                │
+└──────────────────────────────────────────────────────────────────────┘
+```
+- **`ACE`** — Architected **Elivio**, a 360° student-profile CRM (React + TanStack Query + Zustand). Cut render latency **30%** and kept state synced across 3 AI-native platforms.
+- **`CLUTCH`** — Engineered **AuthCore**, a single-source-of-truth identity layer with an omni-channel notification engine (In-app / Email / WhatsApp) propagating across **3+ platforms**.
+- **`ENTRY FRAG`** — Shipped the **Sales Ops Dashboard** (Next.js 15 + React 19) for mentor assignment and session scheduling, wired to AuthCore over JWT.
+- **`SUPPORT`** — Built a **Meeting Management suite** with a native browser audio recorder; React Context + custom hooks orchestrating real-time recording state without memory leaks.
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  MAP: 0unveiled (Zero Unveiled)          Apr 2025 – Sep 2025   [WON] │
+│  ROLE: Software Developer                                            │
+└──────────────────────────────────────────────────────────────────────┘
+```
+- **`ACE`** — Architected a low-latency **n-tier Voice-to-Voice AI Interview Pipeline** (STT → LLM → TTS) driven by a core state machine for real-time session flow.
+- **`CLUTCH`** — Built the **Interview Room UI** in Next.js + TypeScript with WebSocket-synced audio streaming; Bun for a faster build lifecycle.
+
+---
+
+## `>` HIGHLIGHT REEL
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 `Moodly`
+> *LLM-powered music mood assistant*
+
+`React` `TypeScript` `FastAPI` `WebSockets` `Pinecone` `DistilBERT`
+
+- **Mistral-7B** for natural dialogue, **DistilBERT** for emotion detection — **95% accuracy**
+- Dynamic playlist pipeline via **Spotify API + Pinecone** vector search
+- Spotify OAuth, real-time over WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 `Trawell`
+> *Solo travel networking platform*
+
+`MongoDB` `Express` `React` `Node.js` `Tailwind` `AI/ML`
+
+- AI-powered matching + dynamic groups — **+30% social interaction**
+- Itinerary tools & live local recs across **100+ destinations**
+- Forums, event hosting, personalized trip modules
+
+</td>
+</tr>
+</table>
+
+---
+
+## `>` SCOREBOARD
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ishpreet36752&show_icons=true&theme=dark&bg_color=1B2838&title_color=DE9B35&icon_color=DE9B35&text_color=C7D5E0&border_color=DE9B35&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=ishpreet36752&theme=dark&background=1B2838&ring=DE9B35&fire=DE9B35&currStreakLabel=DE9B35&sideLabels=C7D5E0&dates=8A9BA8&border=DE9B35)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet36752&layout=compact&theme=dark&bg_color=1B2838&title_color=DE9B35&text_color=C7D5E0&border_color=DE9B35&hide_border=false&langs_count=8)
+
+</div>
+
+---
+
+## `>` COMMENDATIONS
+
+```
+🏆  MVP           Top Contributor, GSoC 2025 (GFOSS) — out of 100+ global participants
+🎖️  LEADER        Open-Source Mentor, Hacktoberfest 2025 — code audits + Git workflows
+                  for RLHF / OCR / QA repos; merge conflicts down ~45%
+🔥  FRIENDLY      200+ DSA problems solved on LeetCode
+🎯  TEACHER       Databricks Fundamentals (Jul 2025) — Delta Lake, Spark, pipelines
+🧠  AWS ACADEMY   Cloud Virtual Internship (Sep–Nov 2023) — 10-week program
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              "Fire in the hole!"  —  git push origin main    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![Visits](https://visitcount.itsvg.in/api?id=ishpreet36752&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
